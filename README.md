@@ -50,10 +50,14 @@
 e (R + G + B)/3 (escala de cinza)
 
 ### Escala de Cinza  
-- Modelo NTSC_YIQ e PAL_YUV : (Luminância) Y = (( 0.299*R)+( 0.587*G) +( 0.114*B))
-- Modelo HSV : (Valor)V = max(R,G,B)
-- Modelo HSL : (Luminosidade)L = (max(R,G,B) + min(R, G, B))/2
-- Modelo HSI : (Intensidade)I = (R + G + B)/3
+- Modelo NTSC_YIQ e PAL_YUV
+  - Y = (( 0.299*R)+( 0.587*G) +( 0.114*B))
+- Modelo HSV
+  - V = max(R,G,B)
+- Modelo HSL
+  - L = (max(R,G,B) + min(R, G, B))/2
+- Modelo HSI
+  - I = (R + G + B)/3
 
 #### Outras Funcionalidades
 - Zoom de Redução
