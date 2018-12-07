@@ -1,0 +1,9 @@
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\LibFiltros.csproj.GenerateResource.cache
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\LibFiltros.csproj.CoreCompileInputs.cache
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guh_d\Desktop\Ufscar\Eng Computação\8º Semestre\Engenharia de Software\FiltrosDeImagem-master - Arrumado\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\LibFiltros.csprojAssemblyReference.cache

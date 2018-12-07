@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.FiltroBase" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAEAAAAAAQAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FiltroBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroBordas">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="6" Y="1.375" />
+        <Point X="6" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAI=</HashCode>
+      <FileName>FiltroBordas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroCinza">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="0.467" Y="1.375" />
+        <Point X="0.467" Y="4.125" />
+        <Point X="3.5" Y="4.125" />
+        <Point X="3.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAg=</HashCode>
+      <FileName>FiltroCinza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroCorteMediano">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAg=</HashCode>
+      <FileName>FiltroCorteMediano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroMedia">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>FiltroMedia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroMediana">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>FiltroMediana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroMinMax">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="0.497" Y="1.375" />
+        <Point X="0.497" Y="4.125" />
+        <Point X="5.5" Y="4.125" />
+        <Point X="5.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FiltroMinMax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroModa">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="0.449" Y="1.375" />
+        <Point X="0.449" Y="4.125" />
+        <Point X="9.5" Y="4.125" />
+        <Point X="9.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>FiltroModa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroNegativo">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FiltroNegativo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroPopulosidade">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="0.47" Y="1.375" />
+        <Point X="0.47" Y="4.125" />
+        <Point X="1.5" Y="4.125" />
+        <Point X="1.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAg=</HashCode>
+      <FileName>FiltroPopulosidade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.FiltroSubstituicaoUniforme">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.FiltroBase" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="1.062" />
+        <Point X="4.75" Y="1.375" />
+        <Point X="0.469" Y="1.375" />
+        <Point X="0.469" Y="4.125" />
+        <Point X="7.5" Y="4.125" />
+        <Point X="7.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FiltroSubstituicaoUniforme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Form1" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAACCABFAABACoEBADQQAEAgAAAAAgAgwAIBo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Ordenacao">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ordenacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Program">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAABEAAAQQAAAAgCAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
